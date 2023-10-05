@@ -1,0 +1,26 @@
+form{
+    font-size: 30px;
+    color:rgba(12, 12, 172, 0.803);
+}
+button{
+    width: 500px;
+    height: 60px;
+    background-color:rgba(18, 18, 127, 0.775) ;
+    color: whitesmoke;
+}
+button:hover{
+    background-color: lightskyblue;
+}
+body{
+    background-color: lightskyblue;
+    text-align: center;
+    height: 600px;
+    padding:30px;
+    border: 8px solid rgba(18, 18, 127, 0.775) ;
+    margin: 10px;
+}
+h1{
+    font-size: 60px;
+    font-family: 'Tektur', sans-serif;
+    color:rgba(11, 11, 96, 0.775);
+}
